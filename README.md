@@ -7,6 +7,9 @@ You can get more information here:
 [**Blog**](https://giltesa.com/category/electronica/mas-electronica/snes-gamepad-bluetooth).
 
 
+![SNES Bluetooth GamePad](https://raw.githubusercontent.com/giltesa/SNES-Bluetooth-GamePad/master/banner.png)
+
+
 ## License
 
 This project is licensed under a **Creative Commons** license:
